@@ -1,0 +1,16 @@
+{
+  "name": "lyon_node",
+  "version": "1.0.0",
+  "description": "this is intro to node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lyon Mike",
+  "license": "ISC",
+  "dependencies": {
+    "country-name": "^0.4.0",
+    "footballer-name": "^1.1.0",
+    "presidents": "^1.1.1"
+  }
+}
